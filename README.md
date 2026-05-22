@@ -12,9 +12,7 @@ Sou um entusiasta de tecnologia de 18 anos, atualmente cursando o **1º ano de A
 *   
 *   🏆 Premiado com o **2º lugar no Hackteen Venturus** com o projeto Hisui.
 *   
-*   🥈 Medalhista de Prata no **TOEIC** (Proficiência em Inglês).
-*   
-*   🎨 Grande interesse em UX/UI Design e Gestão de Projetos.
+*   🎨 Grande interesse em Backend💻 e Gestão de Projetos.
 *   
 
 
@@ -56,7 +54,7 @@ Sou um entusiasta de tecnologia de 18 anos, atualmente cursando o **1º ano de A
 
 *   **LinkedIn:** [linkedin.com/in/guilhermesfernandesdev](https://linkedin.com/in/guilhermesfernandesdev)
 *   
-*   **E-mail:** [guilhermesfernandesdev@gmail.com]
+*   **E-mail:** [guilhermesfernandes.dev@gmail.com]
 *   
 
 
